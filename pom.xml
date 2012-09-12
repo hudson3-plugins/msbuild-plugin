@@ -7,6 +7,7 @@
         <version>3.0.0-RC3</version>
     </parent>
 
+    <groupId>org.hudsonci.plugins</groupId>
     <artifactId>msbuild</artifactId>
     <packaging>hpi</packaging>
     <version>1.15-h-1-SNAPSHOT</version>
