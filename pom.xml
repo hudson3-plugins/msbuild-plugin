@@ -10,7 +10,7 @@
     <groupId>org.hudsonci.plugins</groupId>
     <artifactId>msbuild</artifactId>
     <packaging>hpi</packaging>
-    <version>1.15-h-1-SNAPSHOT</version>
+    <version>1.14-h-1-SNAPSHOT</version>
     <name>Hudson MSBuild Plugin</name>
     <url>http://wiki.hudson-ci.org/display/HUDSON/MSBuild+Plugin</url>
 
